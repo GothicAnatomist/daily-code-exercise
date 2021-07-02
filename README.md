@@ -1,18 +1,21 @@
-Project Title
+Daily Coding Warmup Chellenges
 =======
 
 ## Description
  
-Short project description
+A collection of my solutions to coding challenges across a plethora of websites. 
+I try to do one of these every day to get warmed up and also to have at least one achievement each day (hopefully!).
+
+They may not be ***THE*** solution, or even a particularly good solution - but it keeps my brain working!
 
 ## Authors
  
-Project authors
+James Walker
+
+(Each challenge belongs to their respective author/company)
 
 ## Licence
  
-Details of any applicable licence
+CC BY 4.0
 
-## Acknowledgements
- 
-Acknowledgements of collaboration and assistance and sources.
+(refer to individual challenges for their respective licence)
