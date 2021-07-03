@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - "Python say hello world" HackerRank challenge
 - "Python if-else" HackerRank challenge
 - "Python Arithmetic Operators " HackerRank challenge
+- "Python: Division" HackerRank challenge
 
 ### Added
 - Change description
