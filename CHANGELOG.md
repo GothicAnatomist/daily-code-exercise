@@ -6,11 +6,12 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 ### Added
-- "Python say hello world" HackerRank challenge
-- "Python if-else" HackerRank challenge
-- "Python Arithmetic Operators " HackerRank challenge
+- "Python: say hello world" HackerRank challenge
+- "Python: if-else" HackerRank challenge
+- "Python: Arithmetic Operators " HackerRank challenge
 - "Python: Division" HackerRank challenge
-- "Python Loops" HackerRank challenge
+- "Python: Loops" HackerRank challenge
+- "Python: Write a Function" HackerRank challenge
 
 ### Added
 - Change description
