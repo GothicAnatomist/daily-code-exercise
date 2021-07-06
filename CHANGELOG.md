@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - "Python if-else" HackerRank challenge
 - "Python Arithmetic Operators " HackerRank challenge
 - "Python: Division" HackerRank challenge
+- "Python Loops" HackerRank challenge
 
 ### Added
 - Change description
