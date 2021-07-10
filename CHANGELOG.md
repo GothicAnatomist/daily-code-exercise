@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - "Python: Nested Lists" HackerRank challenge
 - "Python: Tuples" HackerRank challenge
 - "Python: List Comprehensions" HackerRank challenge
+- "Python: Find the Runner-Up Score!" HackerRank challenge
 
 ## [0.1.0] - 2021-07-07
 ### Added
